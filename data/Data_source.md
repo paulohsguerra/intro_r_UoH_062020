@@ -18,4 +18,4 @@ This file contains demographic information about the students together with thei
 
 This dataset is available for download on https://analyse.kmi.open.ac.uk/open_dataset
 
-Credits: Kuzilek J., Hlosta M., Zdrahal Z. [Open University Learning Analytics dataset Sci] (https://www.nature.com/articles/sdata2017171). Data 4:170171 doi: 10.1038/sdata.2017.171 (2017).
+Credits: Kuzilek J., Hlosta M., Zdrahal Z. [Open University Learning Analytics dataset Sci](https://www.nature.com/articles/sdata2017171). Data 4:170171 doi: 10.1038/sdata.2017.171 (2017).
